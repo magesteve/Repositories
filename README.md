@@ -14,22 +14,22 @@ A lightweight Swift package for standardizing UI commands (menu items, toolbar i
 Source examples for the various APG Kits (ex: APGIntentKit, APGWorkKit).
 [Repository](https://github.com/magesteve/APGExample)
 
-## Flapod
+### Flapod
 
 Flutter Another Picture Of the Day
 [Repository](https://github.com/magesteve/Flapod)
 
-## Publications
+### FindMeStat
 
-Papers and Presentations available from Steve Sheets
-[Repository](https://github.com/magesteve/publications)
+Public source code for Find Me Stat geolocational application
+[Repository](https://github.com/magesteve/FindMeStat)
 
-## swift-appinfo
+### swift-appinfo
 
 Cross-platform Swift Package to access various common details regarding the app and enviroment
 [Repository](https://github.com/magesteve/swift-appinfo)
 
-## Publications
+### Publications
 
 The list of publications, talks and writing, have their own seperate repository.
 [Publications](https://github.com/magesteve/publications)
