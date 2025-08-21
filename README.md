@@ -38,3 +38,4 @@ Website for Zodiac Innovations
 
 The list of publications, talks and writing, have their own seperate repository.
 [Publications](https://github.com/magesteve/publications)
+
