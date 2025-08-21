@@ -17,5 +17,4 @@ Source examples for the various APG Kits (ex: APGIntentKit, APGWorkKit).
 ## Publications
 
 The list of publications, talks and writing, have their own seperate repository.
-
 [Publications](https://github.com/magesteve/publications)
