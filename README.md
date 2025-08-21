@@ -1,7 +1,7 @@
 # Repositories
 Explanation of various public GitHub Repositories create by Steve Sheets
 
-# Source Repositories
+## Source Repositories
 Open Source repositories of toolkits and sample programs.
 
 ### APGIntentKit
@@ -14,7 +14,7 @@ A lightweight Swift package for standardizing UI commands (menu items, toolbar i
 Source examples for the various APG Kits (ex: APGIntentKit, APGWorkKit).
 [Repository](https://github.com/magesteve/APGExample)
 
-# Publications
+## Publications
 
 The list of publications, talks and writing, have their own seperate repository.
 
