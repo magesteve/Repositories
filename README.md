@@ -29,7 +29,14 @@ Public source code for Find Me Stat geolocational application
 Cross-platform Swift Package to access various common details regarding the app and enviroment
 [Repository](https://github.com/magesteve/swift-appinfo)
 
-### Publications
+## Websites
+
+Website for Zodiac Innovations
+[Repository](https://github.com/magesteve/zodiacinnovations)
+
+
+
+## Publications
 
 The list of publications, talks and writing, have their own seperate repository.
 [Publications](https://github.com/magesteve/publications)
