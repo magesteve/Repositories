@@ -34,8 +34,6 @@ Cross-platform Swift Package to access various common details regarding the app 
 Website for Zodiac Innovations
 [Repository](https://github.com/magesteve/zodiacinnovations)
 
-
-
 ## Publications
 
 The list of publications, talks and writing, have their own seperate repository.
