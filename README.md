@@ -19,6 +19,11 @@ A SwiftUI package for creating professional MacOS applications in the style of A
 A lightweight Swift library of properties, typealiases, and common functions that are useful across Apple platform development.
 [Repository](https://github.com/magesteve/APGCantripKit)
 
+### APGMacWidgetKit
+
+A Swift package for containing various useful MacOS windows, views and other widgets
+[Repository](https://github.com/magesteve/APGMacWidgetKit)
+
 ### APGExample
 
 Source examples for the various APG Kits (ex: APGIntentKit, APGWorkKit, APGCantripKit).
