@@ -1,16 +1,6 @@
 # Repositories
 Explanation of various public GitHub Repositories, Website & Publications create by Steve Sheets
 
-## Publications
-
-The list of publications, talks and writing, have their own seperate repository.
-[Publications](https://github.com/magesteve/publications)
-
-## Websites
-
-Website for Zodiac Innovations
-[Repository](https://github.com/magesteve/zodiacinnovations)
-
 ## Source Repositories
 Open Source repositories of toolkits and sample programs.
 
@@ -120,4 +110,14 @@ Quiz Markup Language Kit, to handle common examine types.
 ### ClosureBasedTableViewKit 
 MacOS Swift Package for TableView that use Closures in place of Delegate, Data Sources and such.
 [Repository](https://github.com/magesteve/ClosureBasedTableViewKit)
+
+## Publications
+
+The list of publications, talks and writing, have their own seperate repository.
+[Publications](https://github.com/magesteve/publications)
+
+## Websites
+
+Website for Zodiac Innovations
+[Repository](https://github.com/magesteve/zodiacinnovations)
 
